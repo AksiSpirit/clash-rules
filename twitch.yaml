@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN,assets.twitch.tv
+  - DOMAIN,gql.twitch.tv
+  - DOMAIN,www.twitch.tv
+
+  - DOMAIN-SUFFIX,jtvnw.net
+  - DOMAIN-SUFFIX,live-video.net
+  - DOMAIN-SUFFIX,ttvnw.net
