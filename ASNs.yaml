@@ -1,5 +1,4 @@
 payload:
-  - IP-ASN,13335 # Cloudflare
   - IP-ASN,14061 # DigitalOcean
   - IP-ASN,16509 # Amazon
   - IP-ASN,24940 # Hetzner
