@@ -3,4 +3,5 @@ payload:
   - IP-ASN,16509 # Amazon
   - IP-ASN,20473 # Vultr
   - IP-ASN,24940 # Hetzner
+  - IP-ASN,60068 # Datacamp
   - IP-ASN,63949 # Linode
