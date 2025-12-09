@@ -1,5 +1,6 @@
 payload:
   - IP-ASN,14061 # DigitalOcean
+  - IP-ASN,16276 # OVH
   - IP-ASN,16509 # Amazon
   - IP-ASN,20473 # Vultr
   - IP-ASN,24940 # Hetzner
